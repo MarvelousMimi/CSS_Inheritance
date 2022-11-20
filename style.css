@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+h1{
+    font-size: 18px;
+}
+
+b,i{
+    font-size: 14px;
+}
+
+.first_section{
+    color: green;
+    margin: 15px;
+    padding: 20px;
+    border: 1px solid rgb(5, 17, 5);
+}
+
+.second_section{
+    color: red;
+    margin: auto 25px;
+    padding: 25px 12px ;
+    border: 5px solid rgb(153, 6, 6);
+}
+
+.third_section{
+    color: blue;
+    margin: 5px 20px;
+    padding: 15px 10px;
+    border: 2px dotted rgb(107, 107, 219);
+}
